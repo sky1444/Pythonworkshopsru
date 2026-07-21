@@ -1,0 +1,2 @@
+# Pythonworkshopsru
+Training on Python
